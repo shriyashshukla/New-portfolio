@@ -21,7 +21,7 @@ function Instructors() {
 
 
 <div className="h-[20rem] flex justify-center items-center px-4">
-      <div className="text-4xl mx-auto font-normal text-neutral-200 dark:text-neutral-400">
+      <div className="text-4xl mx-auto font-normal text-neutral-200 dark:text-neutral-200">
         Build
         <FlipWords words={words} /> <br />
         websites with Shriyash Shukla
