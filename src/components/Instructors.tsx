@@ -36,7 +36,7 @@ function Instructors() {
               transition={{ duration: 0.5 }}
               className="order-1 sm:order-2 col-span-12 sm:col-span-4 flex items-center justify-center sm:justify-end"
             >
-              <div className="bg-[#181818] w-[200px] h-[200px] sm:w-[250px] sm:h-[250px] lg:w-[300px] lg:h-[300px] relative flex items-center justify-center rounded-full overflow-hidden">
+              <div className="bg-[#ffffff] w-[200px] h-[200px] sm:w-[250px] sm:h-[250px] lg:w-[300px] lg:h-[300px] relative flex items-center justify-center rounded-full overflow-hidden">
                 <img
                   src="hero.jpg"
                   alt="Profile"
