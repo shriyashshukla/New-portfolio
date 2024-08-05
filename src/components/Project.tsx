@@ -4,6 +4,7 @@ import { HeroParallax } from "./ui/hero-parallax";
 
 
 
+
 export function Project() {
   return <HeroParallax products={products} />;
 }
@@ -11,17 +12,17 @@ export function Project() {
 export const products = [
   {
     title: "Moonbeam",
-    link: "/TypewriterEffectSmoothD",
+    link: "/Projectlist",
     thumbnail: "/image/pro1.png", // Assuming this is in the public/images folder
   },
   {
     title: "Cursor",
-    link: "/TypewriterEffectSmoothD",
+    link: "/Projectlist",
     thumbnail: "/image/2.png",
   },
   {
     title: "Rogue",
-    link: "/TypewriterEffectSmoothD",
+    link: "/Projectlist",
     thumbnail: "/image/3.png",
   },
   {
