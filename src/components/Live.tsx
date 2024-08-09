@@ -22,7 +22,7 @@ export function Live() {
       </motion.h1>
      
     </LampContainer>
-    <MusicSchoolTestimonials/>
+   
     </>
 
   );
