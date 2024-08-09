@@ -11,58 +11,58 @@ export function Project() {
 
 export const products = [
   {
-    title: "Moonbeam",
+    title: "Portfolio 1",
     link: "/Projectlist",
     thumbnail: "/image/pro1.png", // Assuming this is in the public/images folder
   },
   {
-    title: "Cursor",
+    title: "MedAssure",
     link: "/Projectlist",
     thumbnail: "/image/2.png",
   },
   {
-    title: "Rogue",
+    title: "AnimeZen",
     link: "/Projectlist",
     thumbnail: "/image/3.png",
   },
   {
-    title: "Editorially",
+    title: "Paapi Paet",
     link: "/Projectlist",
     thumbnail: "/image/4.png",
   },
   {
-    title: "Editrix AI",
+    title: "Paapi Paet",
     link: "/Projectlist",
     thumbnail: "/image/4.png",
   },
   {
-    title: "Pixel Perfect",
+    title: "",
     link: "/Projectlist",
     thumbnail: "/image/6.png",
   },
   {
-    title: "Algochurn",
-    link: "https://algochurn.com",
+    title: "code pen",
+    link: "/Projectlist",
     thumbnail: "/image/7.png",
   },
+  // {
+  //   title: "MedAssure",
+  //   link: "/Projectlist",
+  //   thumbnail: "/image/2.png",
+  // },
+  // {
+  //   title: "AnimeZen",
+  //   link: "/Projectlist",
+  //   thumbnail: "/image/3.png",
+  // },
   {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
-    thumbnail: "/image/2.png",
+    title: "Paapi Paet",
+    link: "/Projectlist",
+    thumbnail: "/image/8.png",
   },
   {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
-    thumbnail: "/image/3.png",
-  },
-  {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
-    thumbnail: "/image/4.png",
-  },
-  {
-    title: "Aceternity UI",
-    link: "https://ui.aceternity.com",
+    title: "",
+    link: "/Projectlist",
     thumbnail: "/image/5.png",
   },
 

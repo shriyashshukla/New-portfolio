@@ -2,9 +2,11 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { LampContainer } from "./ui/lamp";
+import MusicSchoolTestimonials from "./TestimonialCards";
 
 export function Live() {
   return (
+    <>
     <LampContainer>
       <motion.h1
         initial={{ opacity: 0.5, y: 100 }}
@@ -18,6 +20,10 @@ export function Live() {
       >
         Currently I am doing <br /> Freelancing 
       </motion.h1>
+     
     </LampContainer>
+    <MusicSchoolTestimonials/>
+    </>
+
   );
 }
