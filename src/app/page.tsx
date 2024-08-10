@@ -18,11 +18,7 @@ export default function Home() {
 <Project/>
 <AppleCardsCarouselDemo/>
 <Live/>
-
 <Footer/>
-
-
-
    </>
   );
 }
