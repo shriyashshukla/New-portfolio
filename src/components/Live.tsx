@@ -20,8 +20,12 @@ export function Live() {
       >
         Currently I am doing <br /> Freelancing 
       </motion.h1>
+      
+     
      
     </LampContainer>
+    
+    
    
     </>
 
