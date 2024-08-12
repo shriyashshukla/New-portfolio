@@ -27,7 +27,7 @@ const DummyContent = () => {
           className="bg-gray-800 dark:bg-gray-900 p-8 md:p-14 rounded-3xl mb-4"
         >
           <p className="text-gray-400 dark:text-gray-300 text-base md:text-2xl font-sans max-w-3xl mx-auto">
-            {/* Content goes here */}
+           
           </p>
           <Image
             src="https://assets.aceternity.com/macbook.png"
@@ -46,7 +46,13 @@ const data = [
   {
     category: "REACT JS, NEXT JS",
     title: "Having good in these",
-    src: "/image/next.webp",
+    src: "/image/download.jpg",
+    content: "/projectlist",
+  },
+  {
+    category: "Creating UI/UX",
+    title: "Having designing mindset",
+    src: "/image/12345.png",
     content: "/projectlist",
   },
   {
@@ -64,7 +70,7 @@ const data = [
   {
     category: "Responsive Design",
     title: "Developed Many Websites for Mobile View",
-    src: "https://images.unsplash.com/photo-1599202860130-f600f4948364?q=80&w=2515&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    src: "/image/image.png",
     content: "/projectlist",
   },
   {
@@ -76,7 +82,7 @@ const data = [
   {
     category: "Communication",
     title: "Good at Soft Skills and a Team Player",
-    src: "https://images.unsplash.com/photo-1511984804822-e16ba72f5848?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    src: "/image/1235.jpg",
     content: "/projectlist",
   },
 ];

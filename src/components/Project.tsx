@@ -45,21 +45,21 @@ export const products = [
     link: "/Projectlist",
     thumbnail: "/image/7.png",
   },
-  // {
-  //   title: "MedAssure",
-  //   link: "/Projectlist",
-  //   thumbnail: "/image/2.png",
-  // },
+  {
+    title: "MedAssure",
+    link: "/Projectlist",
+    thumbnail: "/image/2.png",
+  },
   // {
   //   title: "AnimeZen",
   //   link: "/Projectlist",
   //   thumbnail: "/image/3.png",
   // },
-  {
-    title: "Paapi Paet",
-    link: "/Projectlist",
-    thumbnail: "/image/8.png",
-  },
+  // {
+  //   title: "Paapi Paet",
+  //   link: "/Projectlist",
+  //   thumbnail: "/image/8.png",
+  // },
   {
     title: "",
     link: "/Projectlist",
